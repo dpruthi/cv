@@ -1,14 +1,14 @@
-![preview Long Haul](/preview.jpg)
+ <!---![preview Long Haul](/preview.jpg)
 
-Long Haul is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOPREFIXER and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
+<!---Long Haul is a minimal jekyll theme built with SASS / GULP / BROWSERSYNC / AUTOPREFIXER and focuses on long form blog posts. It is meant to be used as a starting point for a jekyll blog/website.
 
-If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
+<!---If you really enjoy Long Haul and want to give me credit somewhere on the internet send or tweet out your experience with Long Haul and tag me [@brianmaierjr](https://twitter.com/brianmaierjr).
 
-#### [View Demo](http://brianmaierjr.com/long-haul)
+<!---#### [View Demo](http://brianmaierjr.com/long-haul)
 
-## Features
+<!---## Features
 
-- Minimal, Type Focused Design
+<!---- Minimal, Type Focused Design
 - Built with GULP + SASS + BROWSERSYNC + AUTOPREFIXER
 - SVG Social Icons
 - Responsive Nav Menu
@@ -20,9 +20,9 @@ If you really enjoy Long Haul and want to give me credit somewhere on the intern
 - Stylish Drop Cap on posts
 - A Better Type Scale for all devices
 
-## Setup
+<!---## Setup
 
-1. [Install Jekyll](http://jekyllrb.com)
+<!---1. [Install Jekyll](http://jekyllrb.com)
 2. Fork the [Long Haul repo](http://github.com/brianmaierjr/long-haul)
 3. Clone it
 4. [Install Bundler](http://bundler.io/)
@@ -31,11 +31,11 @@ If you really enjoy Long Haul and want to give me credit somewhere on the intern
 7. Run Jekyll and watch files by running `gulp`
 8. Customize and watch the magic happen!
 
-## Site Settings
+<!---## Site Settings
 
-The main settings can be found inside the `_config.yml` file:
+<!---The main settings can be found inside the `_config.yml` file:
 
-- **title:** title of your site
+<!---- **title:** title of your site
 - **description:** description of your site
 - **url:** your url
 - **paginate:** the amount of posts displayed on homepage
@@ -43,6 +43,6 @@ The main settings can be found inside the `_config.yml` file:
 - **social** diverse social media usernames (optional)
 - **google_analytics** Google Analytics key (optional)
 
-## License
+<!---## License
 
-This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.
+<!---This is [MIT](LICENSE) with no added caveats, so feel free to use this Jekyll theme on your site without linking back to me or using a disclaimer.-->
