@@ -7,7 +7,7 @@ title: Contact Deepak Pruthi
   <h1 class="pageTitle">Contact Me</h1>
   <div class="contactContent">
     <p class="intro">This is a contact page with some basic contact information and a contact form.</p>
-    <p>If you have questions about the theme feel free to <a href="mailto:dpruthi16@gmail.com">email me</a> or create an issue on <a href="https://github.com/brianmaierjr/long-haul">GitHub</a>. Enjoy!</p>
+    <p>If you have questions about the theme feel free to <a href="mailto:dpruthi16@gmail.com">email me</a> or create an issue on <a href="https://github.com/dpruthi">GitHub</a>. Enjoy!</p>
   </div>
   <form action="http://formspree.io/your@mail.com" method="POST">
     <label for="name">Name</label>
